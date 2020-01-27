@@ -28,5 +28,5 @@
   Handle the edge cases.
   
   
-- [code link](https://github.com/attainu/eagle-jan-monthly-test/blob/master/day-1/moveZeros.js)
+- [code link](https://github.com/attainu/eagle-monthly-test-jan/blob/master/day-1/moveZeros.js)
 
