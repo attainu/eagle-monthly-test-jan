@@ -75,7 +75,13 @@
 
     Explanation: [4,-1,2,1] has the largest sum = 6.
 
+- Example 2:
 
+    Input: [100, -100, 1, 50, 10],
+
+    Output: 100
+
+    Explanation: [100] has the largest sum = 100.
 
 - note:
   mention time and space complexity of your algorithm.
