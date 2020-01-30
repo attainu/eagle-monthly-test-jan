@@ -106,6 +106,29 @@
 
 - [code link](https://github.com/attainu/eagle-monthly-test-jan/blob/master/day-3/mergeLists.js)
 
+------------------------------------------------------------------------------------------------------------------------------
+
+
+- Day 4 Test
+1) Given a binary tree, you need to compute the length of the diameter of the tree. The diameter of a binary tree is the length of the longest path between any two nodes in a tree. This path may or may not pass through the root.
+
+- note:
+  mention time and space complexity of your algorithm.
+  Handle the edge cases.
+  
+
+- [code link](https://github.com/attainu/eagle-monthly-test-jan/blob/master/day-4/calcDiameter.js)
+
+2) Given two binary search  trees, write a function to check if they are the same or not.
+Two binary trees are considered the same if they are structurally identical and the nodes have the same value.
+
+- note:
+  mention time and space complexity of your algorithm.
+  Handle the edge cases.
+  
+
+- [code link](https://github.com/attainu/eagle-monthly-test-jan/blob/master/day-4/sameTree.js)
+
 
 
 
