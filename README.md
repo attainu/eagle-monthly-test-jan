@@ -138,10 +138,15 @@ Two binary trees are considered the same if they are structurally identical and 
 
 for the following graph
 A -> B C
+
 B -> A D E
+
 C -> A
+
 D -> B E F
+
 E -> B D F
+
 F -> D E
 
 - Example1 
