@@ -129,6 +129,40 @@ Two binary trees are considered the same if they are structurally identical and 
 
 - [code link](https://github.com/attainu/eagle-monthly-test-jan/blob/master/day-4/sameTree.js)
 
+------------------------------------------------------------------------------------------------------------------------------
+
+
+- Day 5 Test
+1) Find the shortest length of path from source and destination. To find the shortest path, we use BFS rather than DFS. 
+
+
+for the following graph
+A -> B C
+B -> A D E
+C -> A
+D -> B E F
+E -> B D F
+F -> D E
+
+- Example1 
+    Input1: A 
+            B
+
+    Output: 1
+
+- Example2
+    Input1: A
+            D
+
+    Output: 2
+
+- note:
+  mention time and space complexity of your algorithm.
+  Handle the edge cases.
+  
+
+- [code link](https://github.com/attainu/eagle-monthly-test-jan/blob/master/day-5/graphs.js)
+
 
 
 
