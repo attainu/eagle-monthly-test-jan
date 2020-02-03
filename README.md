@@ -171,8 +171,8 @@ F -> D E
 ------------------------------------------------------------------------------------------------------------------------------
 
 
-- day 6 Test - overall
-- 1)`Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.`
+## day 6 Test - overall
+### 1)`Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.`
 
 Note:
 
@@ -192,7 +192,7 @@ Output:
   mention time and space complexity of your algorithm.
   Handle the edge cases.
 
-- 2)`Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.`
+### 2)`Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.`
 
 Example 1:
 
@@ -213,7 +213,7 @@ You may assume k is always valid, 1 ≤ k ≤ array's length.
   mention time and space complexity of your algorithm.
   Handle the edge cases.
 
-- 3) `Given a singly linked list, group all odd nodes together followed by the even nodes. Please note here we are talking about the node number and not the value in the nodes.`
+### 3) `Given a singly linked list, group all odd nodes together followed by the even nodes. Please note here we are talking about the node number and not the value in the nodes.`
 
 You should try to do it in place. The program should run in  O(nodes) time complexity.
 
@@ -241,7 +241,7 @@ The first node is considered odd, the second node even and so on ...
   mention time and space complexity of your algorithm.
   Handle the edge cases.
 
-- 4) `Invert a binary search tree.`
+### 4) `Invert a binary search tree.`
 
 Example:
 
@@ -257,7 +257,7 @@ Output:
   mention time and space complexity of your algorithm.
   Handle the edge cases.
 
-- 5) `Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.`
+### 5) `Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.`
 
 Examples:
 
@@ -276,7 +276,7 @@ Note: You may assume the string contain only lowercase letters.
   mention time and space complexity of your algorithm.
   Handle the edge cases.
 
-- 6) `Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".`
+### 6) `Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".`
 
 
 Example 1:
