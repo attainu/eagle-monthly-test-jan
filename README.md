@@ -267,7 +267,7 @@ return 0.
 
 s = "lovehackerank",
 
-return 2.
+return 0.
 
 
 Note: You may assume the string contain only lowercase letters.
