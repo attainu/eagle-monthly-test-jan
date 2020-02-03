@@ -197,11 +197,15 @@ Output:
 Example 1:
 
 Input: [3,2,1,5,6,4] and k = 2
+
 Output: 5
+
 Example 2:
 
 Input: [3,2,3,1,2,4,5,5,6] and k = 4
+
 Output: 4
+
 Note:
 You may assume k is always valid, 1 ≤ k ≤ array's length.
 
@@ -216,17 +220,24 @@ You should try to do it in place. The program should run in  O(nodes) time compl
 Example 1:
 
 Input: 1->2->3->4->5->NULL
+
 Output: 1->3->5->2->4->NULL
+
+
 Example 2:
 
 Input: 2->1->3->5->6->4->7->NULL
+
 Output: 2->3->6->7->1->5->4->NULL
+
+
 Note:
 
 The relative order inside both the even and odd groups should remain as it was in the input.
 The first node is considered odd, the second node even and so on ...
 
 - note:
+
   mention time and space complexity of your algorithm.
   Handle the edge cases.
 
@@ -251,10 +262,14 @@ Output:
 Examples:
 
 s = "hackerank"
+
 return 0.
 
 s = "lovehackerank",
+
 return 2.
+
+
 Note: You may assume the string contain only lowercase letters.
 
 - note:
@@ -265,14 +280,21 @@ Note: You may assume the string contain only lowercase letters.
 
 If there is no common prefix, return an empty string "".
 
+
 Example 1:
 
 Input: ["flower","flow","flight"]
+
 Output: "fl"
+
+
 Example 2:
 
 Input: ["dog","racecar","car"]
+
 Output: ""
+
+
 Explanation: There is no common prefix among the input strings.
 Note:
 
