@@ -236,19 +236,11 @@ Example:
 
 Input:
 
-     4
-   /   \
-  2     7
- / \   / \
-1   3 6   9
+![input](images/1.png)
 
 Output:
 
-     4
-   /   \
-  7     2
- / \   / \
-9   6 3   1
+![output](images/2.png)
 
 - note:
   mention time and space complexity of your algorithm.
