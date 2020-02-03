@@ -163,7 +163,124 @@ F -> D E
 
 - [code link](https://github.com/attainu/eagle-monthly-test-jan/blob/master/day-5/graphs.js)
 
+------------------------------------------------------------------------------------------------------------------------------
 
 
+- day 6 Test - overall
+1) Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
 
+Note:
 
+The Output must not contain duplicate triplets.
+
+Example:
+
+Input = [-1, 0, 1, 2, -1, -4]
+
+Output:
+[
+  [-1, 0, 1],
+  [-1, -1, 2]
+]
+
+- note:
+  mention time and space complexity of your algorithm.
+  Handle the edge cases.
+
+2) Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.
+
+Example 1:
+
+Input: [3,2,1,5,6,4] and k = 2
+Output: 5
+Example 2:
+
+Input: [3,2,3,1,2,4,5,5,6] and k = 4
+Output: 4
+Note:
+You may assume k is always valid, 1 ≤ k ≤ array's length.
+
+- note:
+  mention time and space complexity of your algorithm.
+  Handle the edge cases.
+
+3) Given a singly linked list, group all odd nodes together followed by the even nodes. Please note here we are talking about the node number and not the value in the nodes.
+
+You should try to do it in place. The program should run in  O(nodes) time complexity.
+
+Example 1:
+
+Input: 1->2->3->4->5->NULL
+Output: 1->3->5->2->4->NULL
+Example 2:
+
+Input: 2->1->3->5->6->4->7->NULL
+Output: 2->3->6->7->1->5->4->NULL
+Note:
+
+The relative order inside both the even and odd groups should remain as it was in the input.
+The first node is considered odd, the second node even and so on ...
+
+- note:
+  mention time and space complexity of your algorithm.
+  Handle the edge cases.
+
+4) Invert a binary search tree.
+
+Example:
+
+Input:
+
+     4
+   /   \
+  2     7
+ / \   / \
+1   3 6   9
+
+Output:
+
+     4
+   /   \
+  7     2
+ / \   / \
+9   6 3   1
+
+- note:
+  mention time and space complexity of your algorithm.
+  Handle the edge cases.
+
+5) Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
+
+Examples:
+
+s = "hackerank"
+return 0.
+
+s = "lovehackerank",
+return 2.
+Note: You may assume the string contain only lowercase letters.
+
+- note:
+  mention time and space complexity of your algorithm.
+  Handle the edge cases.
+
+6) Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string "".
+
+Example 1:
+
+Input: ["flower","flow","flight"]
+Output: "fl"
+Example 2:
+
+Input: ["dog","racecar","car"]
+Output: ""
+Explanation: There is no common prefix among the input strings.
+Note:
+
+All given inputs are in lowercase letters a-z.
+
+- note:
+  mention time and space complexity of your algorithm.
+  Handle the edge cases.
